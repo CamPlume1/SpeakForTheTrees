@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27683208-efee-43d5-9a94-be4cc7e0c2b6" name="Changes" comment="">
+    <list default="true" id="27683208-efee-43d5-9a94-be4cc7e0c2b6" name="Changes" comment="Export plots as html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/InteractiveVis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/InteractiveVis-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/InteractiveVis_roland-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/InteractiveVis_roland-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractiveVis.html" beforeDir="false" afterPath="$PROJECT_DIR$/InteractiveVis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractiveVis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractiveVis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +14,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RCJuiw4imW4N3bxmgsBhDP1fOH" />
   <component name="ProjectViewState">
@@ -25,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -45,7 +52,18 @@
       <updated>1686748353711</updated>
       <workItem from="1686748354935" duration="735000" />
       <workItem from="1686785261886" duration="133000" />
+      <workItem from="1686844882189" duration="607000" />
+      <workItem from="1686846725279" duration="3299000" />
+      <workItem from="1687306530559" duration="1950000" />
     </task>
+    <task id="LOCAL-00001" summary="Export plots as html">
+      <created>1686842991284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686842991284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Export plots as html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Export plots as html" />
   </component>
 </project>
